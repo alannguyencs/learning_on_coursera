@@ -1,2 +1,2 @@
 # learning_on_coursera
-Summarize my learning notes on Coursera
+Summarize my notes learning on Coursera
