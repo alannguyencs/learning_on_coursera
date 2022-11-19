@@ -79,3 +79,7 @@ To generate an SSH key: `ssh-keygen -t rsa -b 4096 -C "<your email address>"`
 + `git revert HEAD --no-edit` Sometimes you may not fully test your changes before comitting them and may have undesirable consequences … you can back out your changes by using a git revert command like the following. You can either specify the id of your commit that you can see from the previous log output or use the shortcut **HEAD** to rollback the last commit
 
 ## [Additional notes](https://github.com/alannguyencs/pro_git)
+
+## To Explore:
++ `git pull --rebase origin main`
++ `git mv OLD-FILENAME NEW-FILENAME`
